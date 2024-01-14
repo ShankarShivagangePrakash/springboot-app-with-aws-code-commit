@@ -11,6 +11,7 @@ phases:
   build:
     commands:
       - echo Build started on `date`
+      - java --version
       - mvn --version
       - mvn clean package -e -X
       - echo Building the Docker image...
