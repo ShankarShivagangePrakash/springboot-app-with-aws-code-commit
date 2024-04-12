@@ -22,7 +22,7 @@ import jakarta.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author sergeykargopolov
+ * @author Shankar
  */
 public class AuthorizationFilter extends BasicAuthenticationFilter {
 

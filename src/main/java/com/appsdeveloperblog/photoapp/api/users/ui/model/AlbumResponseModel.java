@@ -7,7 +7,7 @@ package com.appsdeveloperblog.photoapp.api.users.ui.model;
  
 /**
  *
- * @author skargopolov
+ * @author Shankar
  */
 public class AlbumResponseModel {
     private String albumId;

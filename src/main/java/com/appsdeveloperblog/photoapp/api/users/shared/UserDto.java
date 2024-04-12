@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author skargopolov
+ * @author Shankar
  */
 public class UserDto {
     private String userId;

@@ -11,7 +11,7 @@ import jakarta.validation.constraints.Size;
 
 /**
  *
- * @author skargopolov
+ * @author Shankar
  */
 public class CreateUserRequestModel {
     

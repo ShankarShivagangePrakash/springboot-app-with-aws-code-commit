@@ -7,7 +7,7 @@ package com.appsdeveloperblog.photoapp.api.users.shared;
 
 /**
  *
- * @author skargopolov
+ * @author Shankar
  */
 public class UsersServiceException extends RuntimeException {
     
